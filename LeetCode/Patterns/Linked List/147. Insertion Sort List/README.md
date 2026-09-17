@@ -1,6 +1,6 @@
 # 📝 147. Insertion Sort List (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/insertion-sort-list/?envType=problem-list-v2&envId=linked-list)
+🔗 [Problem Link](https://leetcode.com/problems/insertion-sort-list/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C-blue)
 
@@ -8,8 +8,8 @@
 Linked List, Sorting
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
-- **Memory:** N/A
+- **Runtime:** 27 ms
+- **Memory:** 11.9 MB
 
 ---
 
