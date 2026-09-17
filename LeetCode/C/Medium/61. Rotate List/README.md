@@ -1,6 +1,6 @@
 # 📝 61. Rotate List (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/rotate-list/?envType=problem-list-v2&envId=linked-list)
+🔗 [Problem Link](https://leetcode.com/problems/rotate-list/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C-blue)
 
