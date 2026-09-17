@@ -1,6 +1,6 @@
 # 📝 23. Merge k Sorted Lists (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/merge-k-sorted-lists/?envType=problem-list-v2&envId=linked-list)
+🔗 [Problem Link](https://leetcode.com/problems/merge-k-sorted-lists/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-C-blue)
 
@@ -8,8 +8,8 @@
 Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 14.5 MB
 
 ---
 
