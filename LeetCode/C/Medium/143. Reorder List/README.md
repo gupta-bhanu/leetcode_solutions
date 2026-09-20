@@ -1,6 +1,6 @@
 # 📝 143. Reorder List (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/reorder-list/?envType=problem-list-v2&envId=stack)
+🔗 [Problem Link](https://leetcode.com/problems/reorder-list/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C-blue)
 
