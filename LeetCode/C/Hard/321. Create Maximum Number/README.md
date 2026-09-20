@@ -1,6 +1,6 @@
 # 📝 321. Create Maximum Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/create-maximum-number/?envType=problem-list-v2&envId=stack)
+🔗 [Problem Link](https://leetcode.com/problems/create-maximum-number/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-C-blue)
 
