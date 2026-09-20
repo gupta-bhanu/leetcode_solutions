@@ -1,6 +1,6 @@
 # 📝 402. Remove K Digits (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/remove-k-digits/?envType=problem-list-v2&envId=stack)
+🔗 [Problem Link](https://leetcode.com/problems/remove-k-digits/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C-blue)
 
