@@ -1,6 +1,6 @@
 # 📝 224. Basic Calculator (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/basic-calculator/?envType=problem-list-v2&envId=stack)
+🔗 [Problem Link](https://leetcode.com/problems/basic-calculator/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-C-blue)
 
@@ -8,8 +8,8 @@
 Math, String, Stack, Recursion
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 10.4 MB
 
 ---
 
