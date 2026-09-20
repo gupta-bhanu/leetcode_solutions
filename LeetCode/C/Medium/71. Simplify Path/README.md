@@ -1,6 +1,6 @@
 # 📝 71. Simplify Path (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/simplify-path/?envType=problem-list-v2&envId=stack)
+🔗 [Problem Link](https://leetcode.com/problems/simplify-path/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C-blue)
 
